@@ -68,7 +68,7 @@ Interactive notebooks + examples can be downloaded by cloning!
     We explore useful tips to be objective in analysis as well as common pitfalls of priors. 
        
 * **Chapter X1: Bayesian methods in Machine Learning and Model Validation** 
-    We explore how to resolve the overfitting problem plus popular ML methods. Also included are probablistic explainations of ridge regression and LASSO regression.
+    We explore how to resolve the overfitting problem plus popular ML methods. Also included are probablistic explanations of ridge regression and LASSO regression.
     - Tim Saliman's winning solution to Kaggle's *Don't Overfit* problem 
     
 * **Chapter X2: More PyMC Hackery**
