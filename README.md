@@ -45,7 +45,7 @@ Interactive notebooks + examples can be downloaded by cloning!
     - Calculating probabilities of the Challenger space-shuttle disaster
     
 * [**Chapter 3: Opening the Black Box of MCMC**](http://nbviewer.ipython.org/urls/raw.github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/master/Chapter3_MCMC/IntroMCMC.ipynb)
-    We discuss how MCMC operates and diagnostic tools. Examples include:
+    We discuss how MCMC operates, and diagnostic tools. Examples include:
     - Bayesian clustering with mixture models
     
 * [**Chapter 4: The Greatest Theorem Never Told**](http://nbviewer.ipython.org/urls/raw.github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/master/Chapter4_TheGreatestTheoremNeverTold/LawOfLargeNumbers.ipynb)
